@@ -1,8 +1,0 @@
-streamlit>=1.50
-streamlit-autorefresh
-yfinance
-pandas
-numpy
-scipy
-xgboost
-plotly
